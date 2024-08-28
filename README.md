@@ -1,2 +1,2 @@
-# TelluriumDev-loc
+# Tellurium-loc
 Language packs of Tellurium

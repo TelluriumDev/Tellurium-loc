@@ -1,9 +1,9 @@
 {
     "format_version": 2,
-    "tooth": "github.com/TelluriumDev/TelluriumDev-loc",
+    "tooth": "github.com/TelluriumDev/Tellurium-loc",
     "version": "0.0.1",
     "info": {
-        "name": "TelluriumDev-loc",
+        "name": "Tellurium-loc",
         "description": "Language packs of Tellurium",
         "author": "TelluriumDev",
         "tags": ["levilamina"]
