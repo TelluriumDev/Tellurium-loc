@@ -1,0 +1,27 @@
+name: Release
+
+on:
+  workflow_dispatch:
+  push:
+    tags:
+      - 'v*.*.*' 
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:                # Job-level permissions configuration starts here
+      contents: write           # 'write' access to repository contents
+      pull-requests: write      # 'write' access to pull requests
+    steps:
+      - uses: actions/checkout@master
+        with:
+          submodules: true
+      - name: upload
+        uses: actions/upload-artifact@v4
+        with:
+          name: TelluriumDev-loc
+          path: lang/*
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        with:
+          name: TelluriumDev-loc
