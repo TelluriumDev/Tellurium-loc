@@ -1,0 +1,23 @@
+{
+    "Old config file detected, upgrading...": "检测到旧配置文件，正在升级...",
+    "Failed to save config file.": "保存配置文件失败",
+    "You are running on an unsupport protocol version! This may result in crash!": "您正在使用的协议版本不受支持！这可能会导致崩溃!",
+    "Support protocol {0}, current protocol {1}": "支持协议 {0}，当前协议 {1}",
+    "Tellurium Enabled!": "Tellurium 启用!",
+    "Repository: {0}": "仓库: {0}",
+    "Cannot initialize modules!!!": "无法初始化模块!!!",
+    "Modules initialized!!!": "模块初始化完成!!!",
+    "Cannot find modules instance, please call initModules() first!!!": "找不到模块实例，请先初始化模块!!!",
+    "Cannot destroy modules!!!": "无法销毁模块!!!",
+    "Cannot destroy TPA module!!!": "无法销毁 TPA 模块!!!",
+    "Cannot destroy TPR module!!!": "无法销毁 TPR 模块!!!",
+    "Cannot destroy Back module!!!": "无法销毁 Back 模块!!!",
+    "Cannot destroy Money module!!!": "无法销毁 Money 模块!!!",
+    "Scoreboard objective {0} not found, will create": "找不到计分板 {0}，将创建",
+    "No scoreboard or LLMoney": "没有计分板或 LLMoney",
+    "§cFailed to add money": "§c添加金钱失败",
+    "§cFailed to set money": "§c设置金钱失败",
+    "§cFailed to get money": "§c获取金钱失败",
+    "§cMoney not enough": "§c金钱不足",
+    "§cFailed to trans money": "§c转账失败"
+}
