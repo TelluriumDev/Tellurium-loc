@@ -2,7 +2,7 @@
     "Old config file detected, upgrading...": "检测到旧配置文件，正在升级...",
     "Failed to save config file.": "保存配置文件失败",
     "You are running on an unsupport protocol version! This may result in crash!": "您正在使用的协议版本不受支持！这可能会导致崩溃!",
-    "Support protocol {0}, current protocol {1}": "支持协议 {0}，当前协议 {1}",
+    "Support protocol {0}, current protocol {1}.": "支持协议 {0}，当前协议 {1}",
     "Tellurium Enabled!": "Tellurium 启用!",
     "Repository: {0}": "仓库: {0}",
     "Cannot initialize modules!!!": "无法初始化模块!!!",
